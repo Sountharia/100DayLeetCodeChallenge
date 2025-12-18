@@ -1,3 +1,3 @@
-Day 1 - Two Sum
-Day 2 - Contains Duplicate
-Day 3 - ValidParanthesis.java
+Day 1 - Two Sum <br>
+Day 2 - Contains Duplicate <br>
+Day 3 - ValidParanthesis.java <br>
